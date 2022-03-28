@@ -1,0 +1,7 @@
+name: ChillzREPORT
+version: '${project.version}'
+main: chillz.Main
+api-version: 1.18
+commands:
+  report:
+    description: used to report
